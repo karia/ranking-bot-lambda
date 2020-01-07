@@ -1,0 +1,11 @@
+*.zip
+*.json
+template.yaml
+
+__pycache__
+bin*
+certifi*
+chardet*
+idna*
+requests*
+urllib*
