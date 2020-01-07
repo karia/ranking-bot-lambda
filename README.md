@@ -9,7 +9,7 @@
 
 ## deploy
 
-./build_run.sh
+./make_deploy_packages.sh
 
 upload `deploy_package.zip` to Lambda.
 
